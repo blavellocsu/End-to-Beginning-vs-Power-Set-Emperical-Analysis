@@ -69,12 +69,10 @@ best = candidate return best
 ## Empirical Analysis:
 Note: The following diagrams were created in R Studio based on the data gathered from testing.
 Diagram 1: Algorithm #1 - End to Beginning
-![Image of Algorithm #1 - End to Beginning]
-(https://github.com/blavellocsu/End-to-Beginning-vs-Power-Set-Emperical-Analysis/blob/master/images/etb.png)
+![Image of Algorithm #1 - End to Beginning](https://github.com/blavellocsu/End-to-Beginning-vs-Power-Set-Emperical-Analysis/blob/master/images/etb.png)
 
 Diagram 2: Algorithm #2 - Powerset
-![Image of Algorithm #2 - Powerset]
-(https://github.com/blavellocsu/End-to-Beginning-vs-Power-Set-Emperical-Analysis/blob/master/images/ps.png)
+![Image of Algorithm #2 - Powerset](https://github.com/blavellocsu/End-to-Beginning-vs-Power-Set-Emperical-Analysis/blob/master/images/ps.png)
 
 ## Notes on Processing Empirical Data:
 In order to gather accurate empirical data, I altered the subsequence_timing.cpp file to test each value of n from 1 - 26. Furthermore, I created a nested loop to test each value of n 3 times to account for outliers in the data.
