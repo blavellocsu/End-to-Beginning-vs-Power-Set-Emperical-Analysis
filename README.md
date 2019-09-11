@@ -10,6 +10,7 @@ This experiment will test the following hypotheses:
 
 ### Algorithm #1 - End to Beginning
 Input: Sequence A of n elements
+
 Output: Sequence R of the longest decreasing subsequence
 
 ```
@@ -34,6 +35,7 @@ index--
 
 ### Algorithm #2 - Powerset
 Input: Sequence A of n elements
+
 Output: Sequence R of the longest decreasing subsequence
 ```
 def sequence longest_decreasing_powerset(sequence A):
