@@ -68,10 +68,11 @@ best = candidate return best
 
 ## Empirical Analysis:
 Note: The following diagrams were created in R Studio based on the data gathered from testing.
-Diagram 1: Algorithm #1 - End to Beginning
+
+### Diagram 1: Algorithm #1 - End to Beginning
 ![Image of Algorithm #1 - End to Beginning](https://github.com/blavellocsu/End-to-Beginning-vs-Power-Set-Emperical-Analysis/blob/master/images/etb.png)
 
-Diagram 2: Algorithm #2 - Powerset
+### Diagram 2: Algorithm #2 - Powerset
 ![Image of Algorithm #2 - Powerset](https://github.com/blavellocsu/End-to-Beginning-vs-Power-Set-Emperical-Analysis/blob/master/images/ps.png)
 
 ## Notes on Processing Empirical Data:
