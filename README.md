@@ -1,7 +1,7 @@
 # End-to-Beginning-vs-Power-Set-Emperical-Analysis
 This experiment compares the End to Beginning Algorithm to the Power Set algorithm, implemented in C++.
 
-The Hypotheses
+## The Hypotheses
 This experiment will test the following hypotheses:
 1. Exhaustive search algorithms are feasible to implement, and produce correct outputs.
 2. Algorithms with exponential or factorial running times are extremely slow, probably too slow to be of practical use.
